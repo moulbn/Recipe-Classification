@@ -1,5 +1,5 @@
 # Recipe Classification
 
-Guessing the culture of a recipe with the help of its name, ingredients and instructions.
-
-Multiple classification models using a Bag of Words representation
+Classification of recipes into country/culture of origin
+Data pre-processing using a Bag of Words representation and vocabulary
+Confusion matrices and weights visualization to better understand the models
